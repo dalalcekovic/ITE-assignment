@@ -23,5 +23,5 @@ HOTFIX applied directly on master
 ![slika15](screenshots/slika15.JPG)
 
 
-![slika16](screenshots/slika16.JPG)
+![slika16](screenshots/newimage.JPG)
 
